@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Button } from '../../common/Button';
+import { Button } from '../../common/button';
 import { Send, Sparkles, Info } from 'lucide-react';
 
 export const QuestionForm = ({ onSubmit, loading, useCritic, onToggleCritic }) => {
