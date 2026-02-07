@@ -1,4 +1,4 @@
-import { Card } from '../../common/Card';
+import { Card } from '../../common/card';
 import { CheckCircle, XCircle, FileText, AlertCircle } from 'lucide-react';
 import { ChunkRelevanceDisplay } from './chunkrelevancedisplay';
 import { ContextComparison } from './contextcomparison';

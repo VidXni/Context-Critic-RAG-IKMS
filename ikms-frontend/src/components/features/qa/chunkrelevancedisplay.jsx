@@ -1,4 +1,4 @@
-import { Card } from '../../common/Card';
+import { Card } from '../../common/card';
 import { CheckCircle, AlertTriangle, XCircle, ChevronDown, ChevronUp, Info } from 'lucide-react';
 import { useState } from 'react';
 

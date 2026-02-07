@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
-import { Button } from '../../common/Button';
-import { Card } from '../../common/Card';
+import { Button } from '../../common/button';
+import { Card } from '../../common/card';
 import { Upload, File, X } from 'lucide-react';
 
 export const PDFUpload = ({ onUpload, loading, progress }) => {

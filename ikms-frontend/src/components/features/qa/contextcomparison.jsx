@@ -1,4 +1,4 @@
-import { Card } from '../../common/Card';
+import { Card } from '../../common/card';
 import { ChevronDown, ChevronUp, Eye, EyeOff } from 'lucide-react';
 import { useState } from 'react';
 

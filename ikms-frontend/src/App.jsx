@@ -1,4 +1,4 @@
-import { Layout } from './components/layout/Layout';
+import { Layout } from './components/layout/layout';
 import { Home } from './pages/Home';
 import { Toaster } from 'react-hot-toast';
 

@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import { PDFUpload } from '../components/features/indexing/PDFUpload';
+import { PDFUpload } from '../components/features/indexing/pdfupload';
 import { QuestionForm } from '../components/features/qa/questionform';
 import { AnswerDisplay } from '../components/features/qa/answerdisplay';
 import { useIndexing } from '../hooks/useIndexing';
 import { useQA } from '../hooks/useQA';
-import { Card } from '../components/common/Card';
+import { Card } from '../components/common/card';
 import { CheckCircle, Sparkles } from 'lucide-react';
 
 export const Home = () => {
