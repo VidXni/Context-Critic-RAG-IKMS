@@ -1,7 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
 **Context Critic IKMS** is a Multi-Agent RAG (Retrieval-Augmented Generation) system featuring a novel Context Critic Agent that intelligently filters and ranks retrieved document chunks before answer generation. It combines a React frontend with a Python FastAPI backend for intelligent document Q&A.
